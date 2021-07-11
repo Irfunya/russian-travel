@@ -1,0 +1,18 @@
+.places {
+  display: grid;
+  gap: 80px;
+}
+
+@media (max-width: 1023px) {
+  .places {
+    gap: 73px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    gap: 50px;
+    padding: 0;
+  }
+}
+

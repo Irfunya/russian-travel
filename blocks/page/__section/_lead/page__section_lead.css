@@ -1,0 +1,9 @@
+.page__section_lead {
+  max-width: 1080px;
+}
+
+@media (max-width: 1023px) {
+  .page__section_lead {
+    padding: 0;
+  }
+}
