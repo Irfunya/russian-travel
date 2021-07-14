@@ -16,3 +16,5 @@
 #### Инструкция
 _Версия языка: ru, en._
 _Internet browser: Google Chrome, Mozilla Firefox, Apple Safari, Opera, Internet Explorer._
+
+[https://irfunya.github.io/russian-travel/]
