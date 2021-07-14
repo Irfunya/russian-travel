@@ -1,0 +1,15 @@
+.content__section_type_places {
+
+}
+
+@media (max-width: 1023px) {
+  .content__section_type_places {
+    margin-bottom: 90px;
+  }
+}
+
+@media (max-width: 767px) {
+  .content__section_type_places {
+    margin-bottom: 66px;
+  }
+}

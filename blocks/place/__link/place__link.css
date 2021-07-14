@@ -1,4 +1,4 @@
-.place__website_link {
+.place__link {
   margin: 12px 0 0;
   font-weight: 400;
   font-size: 18px;
@@ -6,8 +6,9 @@
   text-decoration: underline;
   color: #FFFFFF;
   transition: opacity .2s linear;
+  align-self: flex-start;
 }
 
-.place__website_link:hover {
+.place__link:hover {
   opacity: 0.8;
 }
